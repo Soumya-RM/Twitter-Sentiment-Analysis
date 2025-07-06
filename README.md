@@ -10,3 +10,11 @@ Workflow
 * Built and trained LSTM model
 * Evaluated with accuracy, F1-score, and confusion matrix
 * Deployed function to predict sentiment on custom text
+
+Tech Stack
+* Programming Language: Python
+* Libraries: Pandas, NumPy, scikit-learn, Matplotlib, Seaborn
+* Deep Learning: TensorFlow, Keras
+* Notebook Environment: Google Colab
+* Data Source: Kaggle (Sentiment140 dataset)
+* Other: Kaggle API, Regex (text preprocessing)
